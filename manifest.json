@@ -5,10 +5,10 @@
     "action":{
         "default_popup": "index.html",
         "default_icon":{
-            "128": "logo.jpg"
+            "128": "logo.png"
         }
     },
     "icons":{
-        "128":"logo.jpg"
+        "128":"logo.png"
     }
 }
